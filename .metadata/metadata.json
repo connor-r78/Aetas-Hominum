@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Omnes Viri",
+	"id":	"omnes.mymod",
+	"version":	"0.1",
+	"supported_game_version":	"1.0.2",
+	"short_description":	"Tired of seeing John Generic everywhere? Wishing for a little bit mor flavor? Omnes Viri is for you!\n\nA mod that adds tons of historical characters.",
+	"tags":	["Characters", "Historical"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
