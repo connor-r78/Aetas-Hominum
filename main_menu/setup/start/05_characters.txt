@@ -99669,4 +99669,21 @@ adm = 31 dip = 34 mil = 24
 		dynasty = kaimana_dynasty
 		tag = KAM
 	}
+
+	# OV England
+	eng_ranulf_higden = {
+		first_name = { name = name_ranulf }
+		last_name = Higden
+		culture = english
+		religion = catholic
+		estate = clergy_estate	
+		birth = winchester
+		birth_date = 1280.1.1 # ( c. 1280 )
+		tag = ENG
+
+		artist = writer
+		artist_skill = 0.70
+		artist_trait = prominent
+	}
+
 }
