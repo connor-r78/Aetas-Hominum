@@ -99687,4 +99687,7 @@ adm = 31 dip = 34 mil = 24
 		artist_trait = adept
 	}
 
+	# OV Diocese of Samland
+	
+
 }

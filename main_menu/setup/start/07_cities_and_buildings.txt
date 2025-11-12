@@ -1239,7 +1239,7 @@ building_manager = {
 	order_headquarters = { tag = PMS level = 1 location = kwidzyn }
 	order_headquarters = { tag = SMD level = 1 location = fischhausen }
 	
-	ov_cathedral = { tag = TEU level = 1 location = konigsberg }
+	cathedral = { tag = TEU level = 1 location = konigsberg }
 	
 	tar_kiln = { tag = BIO level = 1 location = lihula } 
 	tar_kiln = { tag = LIV level = 1 location = kandava } 
@@ -1430,16 +1430,16 @@ building_manager = {
 	monastery 	= { tag = DIS level = 1 location = disentis }	#abbey_reform
 
 	
-	ov_cathedral 	= { tag = SCO level = 1 location = elgin } 
-	ov_cathedral 	= { tag = SCO level = 1 location = st_andrews } 
-	ov_cathedral 	= { tag = SCO level = 1 location = aberdeen } 
-	ov_cathedral 	= { tag = SCO level = 1 location = glasgow } 
-	ov_cathedral 	= { tag = SBL level = 1 location = stranraer } # whithorn 
-	ov_cathedral 	= { tag = SCO level = 1 location = inverary } # lismore
-	ov_cathedral 	= { tag = SCO level = 1 location = dundee } #brechin
-	ov_cathedral 	= { tag = SBL level = 1 location = perth } #dunkeld
-	ov_cathedral 	= { tag = SCO level = 1 location = dornoch } 
-	ov_cathedral 	= { tag = ORK level = 1 location = orkney } # kirkwall
+	cathedral 	= { tag = SCO level = 1 location = elgin } 
+	cathedral 	= { tag = SCO level = 1 location = st_andrews } 
+	cathedral 	= { tag = SCO level = 1 location = aberdeen } 
+	cathedral 	= { tag = SCO level = 1 location = glasgow } 
+	cathedral 	= { tag = SBL level = 1 location = stranraer } # whithorn 
+	cathedral 	= { tag = SCO level = 1 location = inverary } # lismore
+	cathedral 	= { tag = SCO level = 1 location = dundee } #brechin
+	cathedral 	= { tag = SBL level = 1 location = perth } #dunkeld
+	cathedral 	= { tag = SCO level = 1 location = dornoch } 
+	cathedral 	= { tag = ORK level = 1 location = orkney } # kirkwall
 
 
 	# Wales had the highest castle per area in the world. It was totally locked down.
@@ -1533,27 +1533,27 @@ building_manager = {
 	monastery 	= { tag = ENG level = 1 location = skipton } # Bolton Priory
 	stockade 	= { tag = DHM level = 1 location = durham }
 	
-	ov_cathedral 	= { tag = ENG level = 1 location = york } # York Minster
-	ov_cathedral 	= { tag = ENG level = 1 location = canterbury } # Canterbury Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = wells } # Wells Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = stafford } # Lichfield Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = lincoln } # Lincoln Cathedral
-	ov_cathedral 	= { tag = PLE level = 1 location = dublin } # St Patricks and Christ Church Cathedrals
-	ov_cathedral 	= { tag = ENG level = 1 location = chichester } # Chichester Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = exeter } # Exeter Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = ely } # Ely Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = hereford } # Hereford Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = norwich } # Norwich Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = rochester } # Rochester Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = salisbury } # Salisbury Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = winchester } # Winchester Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = worcester } # Worchester Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = carlisle } # Carlisle Cathedral
-	ov_cathedral 	= { tag = ENG level = 1 location = durham } # Durham Cathedral
-	ov_cathedral 	= { tag = WLS level = 1 location = anglesey } # Bangor Cathedral
-	ov_cathedral 	= { tag = WLS level = 1 location = cardiff } # Llandaff Cathedral
-	ov_cathedral 	= { tag = WLS level = 1 location = pembroke } # SaintDave's Cathedral
-	ov_cathedral 	= { tag = WLS level = 1 location = conwy } # St Asaph Cathedral
+	cathedral 	= { tag = ENG level = 1 location = york } # York Minster
+	cathedral 	= { tag = ENG level = 1 location = canterbury } # Canterbury Cathedral
+	cathedral 	= { tag = ENG level = 1 location = wells } # Wells Cathedral
+	cathedral 	= { tag = ENG level = 1 location = stafford } # Lichfield Cathedral
+	cathedral 	= { tag = ENG level = 1 location = lincoln } # Lincoln Cathedral
+	cathedral 	= { tag = PLE level = 1 location = dublin } # St Patricks and Christ Church Cathedrals
+	cathedral 	= { tag = ENG level = 1 location = chichester } # Chichester Cathedral
+	cathedral 	= { tag = ENG level = 1 location = exeter } # Exeter Cathedral
+	cathedral 	= { tag = ENG level = 1 location = ely } # Ely Cathedral
+	cathedral 	= { tag = ENG level = 1 location = hereford } # Hereford Cathedral
+	cathedral 	= { tag = ENG level = 1 location = norwich } # Norwich Cathedral
+	cathedral 	= { tag = ENG level = 1 location = rochester } # Rochester Cathedral
+	cathedral 	= { tag = ENG level = 1 location = salisbury } # Salisbury Cathedral
+	cathedral 	= { tag = ENG level = 1 location = winchester } # Winchester Cathedral
+	cathedral 	= { tag = ENG level = 1 location = worcester } # Worchester Cathedral
+	cathedral 	= { tag = ENG level = 1 location = carlisle } # Carlisle Cathedral
+	cathedral 	= { tag = ENG level = 1 location = durham } # Durham Cathedral
+	cathedral 	= { tag = WLS level = 1 location = anglesey } # Bangor Cathedral
+	cathedral 	= { tag = WLS level = 1 location = cardiff } # Llandaff Cathedral
+	cathedral 	= { tag = WLS level = 1 location = pembroke } # SaintDave's Cathedral
+	cathedral 	= { tag = WLS level = 1 location = conwy } # St Asaph Cathedral
 
 	fishing_village = { tag = WLS level = 1 location = swansea }
 
@@ -1765,50 +1765,50 @@ building_manager = {
 	#castle = { tag = NAV level = 1 location = tudela } #Castle of Cortes. Already implemented by the country template. Keeping for info.
 	castle = { tag = POR level = 1 location = viana_do_castelo } #Castle of Valença do Minho
 
-	ov_cathedral 	= { tag = CAS level = 1 location = astorga } #Saint Mary Cathedral, established in 1069
-	ov_cathedral 	= { tag = CAS level = 1 location = avila } #Cathedral of the Saviour, established in 1091
-	ov_cathedral 	= { tag = CAS level = 1 location = badajoz } #Saint John Cathedral, established in 1276
-	ov_cathedral 	= { tag = CAS level = 1 location = baeza } #Cathedral of the Nativity of our Lady, established in 1227
-	ov_cathedral 	= { tag = ARA level = 1 location = barcelona } #Saint Eulalia and the Holy Cross Cathedral, established in 1058
-	ov_cathedral 	= { tag = ARA level = 1 location = benabarre } #Saint Vincent Martyr Cathedral, established in 1030
-	ov_cathedral 	= { tag = CAS level = 1 location = burgo_de_osma } #Cathedral of the Assumption of Mary, established in 1272
-	ov_cathedral 	= { tag = CAS level = 1 location = burgos } #Saint Mary Cathedral, established in 1260
-	ov_cathedral 	= { tag = CAS level = 1 location = cartagena } #Saint Mary Cathedral, established in 1250
-	ov_cathedral 	= { tag = CAS level = 1 location = ciudad_rodrigo } #Saint Mary Cathedral, established in 1160
-	ov_cathedral 	= { tag = POR level = 1 location = coimbra } #Coimbra Cathedral, established in 1139
-	ov_cathedral 	= { tag = CAS level = 1 location = cordoba } #Cathedral of the Assumption of our Lady, established in 1236
-	ov_cathedral 	= { tag = CAS level = 1 location = cuenca } #Saint Mary and Saint Julian Cathedral, established in 1196
-	ov_cathedral 	= { tag = POR level = 1 location = evora } #Évora Cathedral, established in 1204
-	ov_cathedral 	= { tag = ARA level = 1 location = girona } #Saint Mary Cathedral, established in 1038
-	ov_cathedral 	= { tag = POR level = 1 location = guarda } #Guarda Cathedral, established in 1199
-	ov_cathedral 	= { tag = POR level = 1 location = guimaraes } #Braga Cathedral, established in 1070
-	ov_cathedral 	= { tag = ARA level = 1 location = huesca } #Cathedral of the Transfiguration of the Lord, established in 1098
-	ov_cathedral 	= { tag = ARA level = 1 location = jaca } #Saint Peter Cathedral, established in 1063
-	ov_cathedral 	= { tag = POR level = 1 location = lamego } #Lamego Cathedral, established in 1129
-	ov_cathedral 	= { tag = CAS level = 1 location = leon } #Saint Mary Cathedral, established in 1303
-	ov_cathedral 	= { tag = POR level = 1 location = lisbon } #Lisboa Cathedral, established in 1147
-	ov_cathedral 	= { tag = ARA level = 1 location = lleida } #Saint Mary Cathedral, established in 1278
-	ov_cathedral 	= { tag = CAS level = 1 location = logrono } #Saint Dominic Cathedral, established in 1232
-	ov_cathedral 	= { tag = CAS level = 1 location = lugo } #Cathedral of the Assumption of Saint Mary, established in 1273
-	ov_cathedral 	= { tag = CAS level = 1 location = mondonedo } #Cathedral of the Virgin of the Assumption, established in 1246
-	ov_cathedral 	= { tag = CAS level = 1 location = ourense } #Saint Martin Cathedral, established in 1188
-	ov_cathedral 	= { tag = CAS level = 1 location = oviedo } #Cathedral of the Holy Saviour, established in 821
-	ov_cathedral 	= { tag = MLL level = 1 location = palma } #Saint Mary Cathedral, established in 1229
-	ov_cathedral 	= { tag = NAV level = 1 location = pamplona } #Saint Mary Cathedral, established in 1127
-	ov_cathedral 	= { tag = POR level = 1 location = porto } #Porto Cathedral, established in 1110
-	ov_cathedral 	= { tag = CAS level = 1 location = salamanca } #Saint Mary Cathedral, established in 1236
-	ov_cathedral 	= { tag = CAS level = 1 location = santiago_compostela } #Saint James the Apostle Cathedral, established in 1211
-	ov_cathedral 	= { tag = ARA level = 1 location = seu_durgell } #Saint Mary Cathedral, established in 1040
-	ov_cathedral 	= { tag = CAS level = 1 location = siguenza } #Saint Mary Cathedral, established in 1169
-	ov_cathedral 	= { tag = ARA level = 1 location = tarazona } #Saint Mary of la Huerta Cathedral, established in 1235
-	ov_cathedral 	= { tag = ARA level = 1 location = tarragona } #Saint Thecla Cathedral, established in 1331
-	ov_cathedral 	= { tag = NAV level = 1 location = tudela } #Saint Mary Cathedral, established in 1270
-	ov_cathedral 	= { tag = CAS level = 1 location = tuy } #Cathedral of Saint Mary of the Assumption, established in 1225
-	ov_cathedral 	= { tag = ARA level = 1 location = valencia } #Cathedral of the Assumption of our Lady, established in 1238
-	ov_cathedral 	= { tag = POR level = 1 location = viseu } #Viseu Cathedral, established in 1109
-	ov_cathedral 	= { tag = CAS level = 1 location = vitoria } #Saint Mary Cathedral, established in 1200
-	ov_cathedral 	= { tag = CAS level = 1 location = zamora } #Cathedral of the Saviour, established in 1174
-	ov_cathedral 	= { tag = ARA level = 1 location = zaragoza } #Cathedral of the Saviour, established in 1318
+	cathedral 	= { tag = CAS level = 1 location = astorga } #Saint Mary Cathedral, established in 1069
+	cathedral 	= { tag = CAS level = 1 location = avila } #Cathedral of the Saviour, established in 1091
+	cathedral 	= { tag = CAS level = 1 location = badajoz } #Saint John Cathedral, established in 1276
+	cathedral 	= { tag = CAS level = 1 location = baeza } #Cathedral of the Nativity of our Lady, established in 1227
+	cathedral 	= { tag = ARA level = 1 location = barcelona } #Saint Eulalia and the Holy Cross Cathedral, established in 1058
+	cathedral 	= { tag = ARA level = 1 location = benabarre } #Saint Vincent Martyr Cathedral, established in 1030
+	cathedral 	= { tag = CAS level = 1 location = burgo_de_osma } #Cathedral of the Assumption of Mary, established in 1272
+	cathedral 	= { tag = CAS level = 1 location = burgos } #Saint Mary Cathedral, established in 1260
+	cathedral 	= { tag = CAS level = 1 location = cartagena } #Saint Mary Cathedral, established in 1250
+	cathedral 	= { tag = CAS level = 1 location = ciudad_rodrigo } #Saint Mary Cathedral, established in 1160
+	cathedral 	= { tag = POR level = 1 location = coimbra } #Coimbra Cathedral, established in 1139
+	cathedral 	= { tag = CAS level = 1 location = cordoba } #Cathedral of the Assumption of our Lady, established in 1236
+	cathedral 	= { tag = CAS level = 1 location = cuenca } #Saint Mary and Saint Julian Cathedral, established in 1196
+	cathedral 	= { tag = POR level = 1 location = evora } #Évora Cathedral, established in 1204
+	cathedral 	= { tag = ARA level = 1 location = girona } #Saint Mary Cathedral, established in 1038
+	cathedral 	= { tag = POR level = 1 location = guarda } #Guarda Cathedral, established in 1199
+	cathedral 	= { tag = POR level = 1 location = guimaraes } #Braga Cathedral, established in 1070
+	cathedral 	= { tag = ARA level = 1 location = huesca } #Cathedral of the Transfiguration of the Lord, established in 1098
+	cathedral 	= { tag = ARA level = 1 location = jaca } #Saint Peter Cathedral, established in 1063
+	cathedral 	= { tag = POR level = 1 location = lamego } #Lamego Cathedral, established in 1129
+	cathedral 	= { tag = CAS level = 1 location = leon } #Saint Mary Cathedral, established in 1303
+	cathedral 	= { tag = POR level = 1 location = lisbon } #Lisboa Cathedral, established in 1147
+	cathedral 	= { tag = ARA level = 1 location = lleida } #Saint Mary Cathedral, established in 1278
+	cathedral 	= { tag = CAS level = 1 location = logrono } #Saint Dominic Cathedral, established in 1232
+	cathedral 	= { tag = CAS level = 1 location = lugo } #Cathedral of the Assumption of Saint Mary, established in 1273
+	cathedral 	= { tag = CAS level = 1 location = mondonedo } #Cathedral of the Virgin of the Assumption, established in 1246
+	cathedral 	= { tag = CAS level = 1 location = ourense } #Saint Martin Cathedral, established in 1188
+	cathedral 	= { tag = CAS level = 1 location = oviedo } #Cathedral of the Holy Saviour, established in 821
+	cathedral 	= { tag = MLL level = 1 location = palma } #Saint Mary Cathedral, established in 1229
+	cathedral 	= { tag = NAV level = 1 location = pamplona } #Saint Mary Cathedral, established in 1127
+	cathedral 	= { tag = POR level = 1 location = porto } #Porto Cathedral, established in 1110
+	cathedral 	= { tag = CAS level = 1 location = salamanca } #Saint Mary Cathedral, established in 1236
+	cathedral 	= { tag = CAS level = 1 location = santiago_compostela } #Saint James the Apostle Cathedral, established in 1211
+	cathedral 	= { tag = ARA level = 1 location = seu_durgell } #Saint Mary Cathedral, established in 1040
+	cathedral 	= { tag = CAS level = 1 location = siguenza } #Saint Mary Cathedral, established in 1169
+	cathedral 	= { tag = ARA level = 1 location = tarazona } #Saint Mary of la Huerta Cathedral, established in 1235
+	cathedral 	= { tag = ARA level = 1 location = tarragona } #Saint Thecla Cathedral, established in 1331
+	cathedral 	= { tag = NAV level = 1 location = tudela } #Saint Mary Cathedral, established in 1270
+	cathedral 	= { tag = CAS level = 1 location = tuy } #Cathedral of Saint Mary of the Assumption, established in 1225
+	cathedral 	= { tag = ARA level = 1 location = valencia } #Cathedral of the Assumption of our Lady, established in 1238
+	cathedral 	= { tag = POR level = 1 location = viseu } #Viseu Cathedral, established in 1109
+	cathedral 	= { tag = CAS level = 1 location = vitoria } #Saint Mary Cathedral, established in 1200
+	cathedral 	= { tag = CAS level = 1 location = zamora } #Cathedral of the Saviour, established in 1174
+	cathedral 	= { tag = ARA level = 1 location = zaragoza } #Cathedral of the Saviour, established in 1318
 	
 	chancery = { tag = ARA level = 1 location = barcelona }
 	chancery = { tag = NAV level = 1 location = pamplona } #XI Century
@@ -1982,7 +1982,7 @@ building_manager = {
 
 
 	tar_kiln = { tag = HUN level = 1 location = cuhea } 
-	ov_cathedral 	= { tag = HUN level = 1 location = fehervar } 
+	cathedral 	= { tag = HUN level = 1 location = fehervar } 
 	
 	tar_kiln = { tag = BUL level = 1 location = razgrad } 
 	tar_kiln = { tag = BUL level = 1 location = sozopol } 
@@ -2096,10 +2096,10 @@ building_manager = {
 	#castle = { tag = FLA level = 1 location = ghent } #Gravensteen
 	castle = { tag = LUX level = 1 location = luxembourg } #The Bock
 
-	ov_cathedral = { tag = FLA level = 1 location = ghent } #Saintt Bavo's Cathedral, established in 1274
-	ov_cathedral = { tag = LIE level = 1 location = liege } #Saint Lambert's Cathedral, established around the VIIIth Century
-	ov_cathedral = { tag = UTR level = 1 location = utrecht } #Saint Martin's Cathedral, established in 1254
-	ov_cathedral	= { tag = FRA level = 1 location = tournai } #Cathedral of Our Lady, established in 1140
+	cathedral = { tag = FLA level = 1 location = ghent } #Saintt Bavo's Cathedral, established in 1274
+	cathedral = { tag = LIE level = 1 location = liege } #Saint Lambert's Cathedral, established around the VIIIth Century
+	cathedral = { tag = UTR level = 1 location = utrecht } #Saint Martin's Cathedral, established in 1254
+	cathedral	= { tag = FRA level = 1 location = tournai } #Cathedral of Our Lady, established in 1140
 
 	monastery	= { tag = LOO level = 1	location = hasselt } #Herkenrode Abbey
 	monastery	= { tag = LUX level = 1	location = luxembourg } #Echternach Abbey
@@ -2183,13 +2183,13 @@ building_manager = {
 
 	scriptorium	= { tag = NOV level = 2	location = novgorod}
 
-	ov_cathedral 	= { tag = NOV level = 1 location = novgorod } #Saint Sophia Cathedral, established in 992
-	ov_cathedral 	= { tag = SMO level = 1 location = smolensk } #Dormition Cathedral, established in 1137
-	ov_cathedral 	= { tag = MRM level = 1 location = murom } #Trinity Cathedral, established in 1198
-	ov_cathedral 	= { tag = RYA level = 1 location = ryazan } #Assumption Cathedral, established in 1198
-	ov_cathedral 	= { tag = NZH level = 1 location = suzdal } #Nativity Cathedral, established in 1213
-	ov_cathedral 	= { tag = MOS level = 1 location = vladimir } #Dormition Cathedral, established in 1214		
-	ov_cathedral 	= { tag = TVE level = 1 location = tver } #Resurrection Cathedral, established in 1271
+	cathedral 	= { tag = NOV level = 1 location = novgorod } #Saint Sophia Cathedral, established in 992
+	cathedral 	= { tag = SMO level = 1 location = smolensk } #Dormition Cathedral, established in 1137
+	cathedral 	= { tag = MRM level = 1 location = murom } #Trinity Cathedral, established in 1198
+	cathedral 	= { tag = RYA level = 1 location = ryazan } #Assumption Cathedral, established in 1198
+	cathedral 	= { tag = NZH level = 1 location = suzdal } #Nativity Cathedral, established in 1213
+	cathedral 	= { tag = MOS level = 1 location = vladimir } #Dormition Cathedral, established in 1214		
+	cathedral 	= { tag = TVE level = 1 location = tver } #Resurrection Cathedral, established in 1271
 
 
 	#Ruthenia
@@ -2206,9 +2206,9 @@ building_manager = {
 	charcoal_maker = { tag = HAL level = 1 location = khmilnyk }
 	charcoal_maker = { tag = HAL level = 1 location = mezhybozhe }
 
-	ov_cathedral 	= { tag = KIE level = 1 location = kyiv } #Saint Sophia Cathedral, established in 1012
-	ov_cathedral 	= { tag = POK level = 1 location = polotsk } #Saint Sophia Cathedral, established in 992
-	ov_cathedral 	= { tag = HAL level = 1 location = halych } #Assumption Cathedral, established in 1303
+	cathedral 	= { tag = KIE level = 1 location = kyiv } #Saint Sophia Cathedral, established in 1012
+	cathedral 	= { tag = POK level = 1 location = polotsk } #Saint Sophia Cathedral, established in 992
+	cathedral 	= { tag = HAL level = 1 location = halych } #Assumption Cathedral, established in 1303
 
 	#France
 	#castle = { tag = ALS level = 1 location = strasbourg }
@@ -2219,27 +2219,27 @@ building_manager = {
 	tar_kiln = { tag = VNT level = 1 location = ventadour } 
 	tar_kiln = { tag = BRI level = 1 location = josselin } 
 
-	ov_cathedral 	= { tag = FRA level = 1 location = agde } #Saint-Étienne d'Agde Cathedral, established in 1173
-	ov_cathedral 	= { tag = FRA level = 1 location = agen } #Saint-Caprais d'Agen Cathedral
-	ov_cathedral 	= { tag = MDM level = 1 location = aire } #Saint-Jean-Baptiste d'Aire Cathedral, established in 1309
-	ov_cathedral 	= { tag = PRO level = 1 location = aix_en_provence } #Saint-Sauveur d'Aix Cathedral, established in 1103
-	ov_cathedral 	= { tag = FRA level = 1 location = albi } #Sainte-Cécile d'Albi Cathedral, established in 1282
-	ov_cathedral 	= { tag = FRA level = 1 location = amiens } #Notre-Dame d'Amiens Cathedral, established in 1270
-	ov_cathedral 	= { tag = ANJ level = 1 location = angers } #Saint-Maurice d'Angers Cathedral, established in 1096
-	ov_cathedral 	= { tag = ANG level = 1 location = angouleme } #Saint-Pierre d'Angoulême Cathedral, established in 1128
-	ov_cathedral 	= { tag = PRO level = 1 location = apt } #Sainte-Anne d'Apt Cathedral, established in 991
-	ov_cathedral 	= { tag = PRO level = 1 location = arles } #Saint-Trophime d'Arles Cathedral, established in 250
-	ov_cathedral		= { tag = ARS level = 1 location = arras } #Notre-Dame-et-Saint-Vaast d'Arras Cathedral, established in 1030
-	ov_cathedral		= { tag = BUR level = 1 location = autun } #Saint-Lazare d'Autun Cathedral, established in 1132
-	ov_cathedral		= { tag = AUX level = 1 location = auxerre } #Saint-Étienne d'Auxerre Cathedral, established in 1057
-	ov_cathedral		= { tag = PAP level = 1 location = avignon } #Notre-Dame des Doms d'Avignon Cathedral, established in 1150
-	ov_cathedral		= { tag = NRM level = 1 location = avranches } #Saint-André d'Avranches Cathedral, established in 1211
-	ov_cathedral		= { tag = CAM level = 1 location = cambrai } #Notre-Dame de Cambrai Cathedral, established in 1148
-	ov_cathedral 	= { tag = FOI level = 1 location = foix } #Notre-Dame d'Alet Cathedral, established in 1317
-	ov_cathedral 	= { tag = PRO level = 1 location = grasse } #Notre-Dame-de-l'Immaculée-Conception d'Antibes Cathedral, established in 450
-	ov_cathedral 	= { tag = FRA level = 1 location = paris } #Notre-Dame de Paris Cathedral, established in 1182
-	ov_cathedral 	= { tag = BRI level = 1 location = saint_malo } #Saint-Pierre d'Aleth Cathedral and Saint-Vincent-de-Saragosse de Saint-Malo Cathedral, established 1146
-	ov_cathedral		= { tag = ARS level = 1 location = saint_omer } #Notre-Dame de Thérouanne Cathedral, established in the 7th Century
+	cathedral 	= { tag = FRA level = 1 location = agde } #Saint-Étienne d'Agde Cathedral, established in 1173
+	cathedral 	= { tag = FRA level = 1 location = agen } #Saint-Caprais d'Agen Cathedral
+	cathedral 	= { tag = MDM level = 1 location = aire } #Saint-Jean-Baptiste d'Aire Cathedral, established in 1309
+	cathedral 	= { tag = PRO level = 1 location = aix_en_provence } #Saint-Sauveur d'Aix Cathedral, established in 1103
+	cathedral 	= { tag = FRA level = 1 location = albi } #Sainte-Cécile d'Albi Cathedral, established in 1282
+	cathedral 	= { tag = FRA level = 1 location = amiens } #Notre-Dame d'Amiens Cathedral, established in 1270
+	cathedral 	= { tag = ANJ level = 1 location = angers } #Saint-Maurice d'Angers Cathedral, established in 1096
+	cathedral 	= { tag = ANG level = 1 location = angouleme } #Saint-Pierre d'Angoulême Cathedral, established in 1128
+	cathedral 	= { tag = PRO level = 1 location = apt } #Sainte-Anne d'Apt Cathedral, established in 991
+	cathedral 	= { tag = PRO level = 1 location = arles } #Saint-Trophime d'Arles Cathedral, established in 250
+	cathedral		= { tag = ARS level = 1 location = arras } #Notre-Dame-et-Saint-Vaast d'Arras Cathedral, established in 1030
+	cathedral		= { tag = BUR level = 1 location = autun } #Saint-Lazare d'Autun Cathedral, established in 1132
+	cathedral		= { tag = AUX level = 1 location = auxerre } #Saint-Étienne d'Auxerre Cathedral, established in 1057
+	cathedral		= { tag = PAP level = 1 location = avignon } #Notre-Dame des Doms d'Avignon Cathedral, established in 1150
+	cathedral		= { tag = NRM level = 1 location = avranches } #Saint-André d'Avranches Cathedral, established in 1211
+	cathedral		= { tag = CAM level = 1 location = cambrai } #Notre-Dame de Cambrai Cathedral, established in 1148
+	cathedral 	= { tag = FOI level = 1 location = foix } #Notre-Dame d'Alet Cathedral, established in 1317
+	cathedral 	= { tag = PRO level = 1 location = grasse } #Notre-Dame-de-l'Immaculée-Conception d'Antibes Cathedral, established in 450
+	cathedral 	= { tag = FRA level = 1 location = paris } #Notre-Dame de Paris Cathedral, established in 1182
+	cathedral 	= { tag = BRI level = 1 location = saint_malo } #Saint-Pierre d'Aleth Cathedral and Saint-Vincent-de-Saragosse de Saint-Malo Cathedral, established 1146
+	cathedral		= { tag = ARS level = 1 location = saint_omer } #Notre-Dame de Thérouanne Cathedral, established in the 7th Century
 
 	#Greece and Balkans
 	
@@ -3592,59 +3592,59 @@ building_manager = {
 
 	#Cardinal-Cathedrals
 	#Papal Cardinals
-	ov_cathedral = { tag = PAP level = 1 location = rome } #Giacomo Stefaneschi Caetani (San Giorgio)
-	ov_cathedral = { tag = PAP level = 1 location = tivoli } #Napoleone Orsini (Sant’ Adriano)
-	ov_cathedral = { tag = PAP level = 1 location = palestrina } #Giovanni Colonna (S. Angelo)
-	ov_cathedral = { tag = PAP level = 1 location = velletri } #Betrand du Pouget (Ostia e Velletri)
+	cathedral = { tag = PAP level = 1 location = rome } #Giacomo Stefaneschi Caetani (San Giorgio)
+	cathedral = { tag = PAP level = 1 location = tivoli } #Napoleone Orsini (Sant’ Adriano)
+	cathedral = { tag = PAP level = 1 location = palestrina } #Giovanni Colonna (S. Angelo)
+	cathedral = { tag = PAP level = 1 location = velletri } #Betrand du Pouget (Ostia e Velletri)
 	#French Cardinals
-	ov_cathedral = { tag = FRA level = 1 location = toulouse } #Jean-Raymond de Comminges (Porto-Santa Rufina)
-	ov_cathedral = { tag = FRA level = 1 location = bazas } #Raymond Guilhem de Fargues (S. Maria Nova)
-	ov_cathedral = { tag = FRA level = 1 location = lyon } #Bertrand de Montfavez (S. Maria in Aquiro)
-	ov_cathedral = { tag = FRA level = 1 location = langres } #Imbert Dupuis (XII Apostoli)
-	ov_cathedral = { tag = FRA level = 1 location = viviers } #Pierre de Mortemart
-	ov_cathedral = { tag = FRA level = 1 location = bourges } #Pierre Bertrand d'Annonay (S. Clemente)
+	cathedral = { tag = FRA level = 1 location = toulouse } #Jean-Raymond de Comminges (Porto-Santa Rufina)
+	cathedral = { tag = FRA level = 1 location = bazas } #Raymond Guilhem de Fargues (S. Maria Nova)
+	cathedral = { tag = FRA level = 1 location = lyon } #Bertrand de Montfavez (S. Maria in Aquiro)
+	cathedral = { tag = FRA level = 1 location = langres } #Imbert Dupuis (XII Apostoli)
+	cathedral = { tag = FRA level = 1 location = viviers } #Pierre de Mortemart
+	cathedral = { tag = FRA level = 1 location = bourges } #Pierre Bertrand d'Annonay (S. Clemente)
 	#French Vassals
-	ov_cathedral = { tag = NRB level = 1 location = narbonne } #Gaillard de la Mothe (S. Lucia)
-	ov_cathedral = { tag = AUX level = 1 location = auxerre } #Hélie de Talleyrand-Périgord (S. Pietro in Vincoli)
+	cathedral = { tag = NRB level = 1 location = narbonne } #Gaillard de la Mothe (S. Lucia)
+	cathedral = { tag = AUX level = 1 location = auxerre } #Hélie de Talleyrand-Périgord (S. Pietro in Vincoli)
 	#Other
-	ov_cathedral = { tag = NAP level = 1 location = manfredonia } #Matteo Orsini (SS Giovani e Paolo) #Archbishop of Manfredonia when elected
-	ov_cathedral = { tag = NAP level = 1 location = naples } #Annibaldo di Ceccano (Tusculum) #Archbishop of Naples when elected
+	cathedral = { tag = NAP level = 1 location = manfredonia } #Matteo Orsini (SS Giovani e Paolo) #Archbishop of Manfredonia when elected
+	cathedral = { tag = NAP level = 1 location = naples } #Annibaldo di Ceccano (Tusculum) #Archbishop of Naples when elected
 
 	#Ecclesiastical Province Cathedrals
-	ov_cathedral = { tag = KOL level = 1 location = cologne }
-	ov_cathedral = { tag = MAI level = 1 location = mainz }
-	ov_cathedral = { tag = TRI level = 1 location = trier }
-	ov_cathedral = { tag = SLZ level = 1 location = salzburg }
-	ov_cathedral = { tag = BOH level = 1 location = prague }
-	ov_cathedral = { tag = MAG level = 1 location = magdeburg }
-	ov_cathedral = { tag = BRE level = 1 location = bremervorde } #Diocese of Bremen
-	ov_cathedral = { tag = BSC level = 1 location = besancon }
-	ov_cathedral = { tag = POL level = 1 location = gniezno }
-	ov_cathedral = { tag = HUN level = 1 location = esztergom }
-	ov_cathedral = { tag = HUN level = 1 location = kalocsa }
-	ov_cathedral = { tag = SKE level = 1 location = lund }
-	ov_cathedral = { tag = SWE level = 1 location = uppsala }
-	ov_cathedral = { tag = NOR level = 1 location = nidaros }
-	ov_cathedral = { tag = RIG level = 1 location = riga }
-	ov_cathedral = { tag = HAL level = 1 location = halych }
-	ov_cathedral = { tag = RAG level = 1 location = dubrovnik }
-	ov_cathedral = { tag = VEN level = 1 location = split }
-	ov_cathedral = { tag = AQU level = 1 location = aquileia }
-	ov_cathedral = { tag = MLO level = 1 location = milano }
-	ov_cathedral = { tag = RAV level = 1 location = ravenna }
-	ov_cathedral = { tag = GEN level = 1 location = genoa }
-	ov_cathedral = { tag = SAV level = 1 location = vienne }
-	ov_cathedral = { tag = CYP level = 1 location = nicosia_cyp }
-	ov_cathedral = { tag = CRT level = 1 location = candia }
-	ov_cathedral = { tag = FRA level = 1 location = reims }
-	ov_cathedral = { tag = NRM level = 1 location = rouen }
-	ov_cathedral = { tag = FRA level = 1 location = tours }
-	ov_cathedral = { tag = AQN level = 1 location = bordeaux }
-	ov_cathedral = { tag = PIS level = 1 location = pisa }
-	ov_cathedral = { tag = PAP level = 1 location = benevento }
-	ov_cathedral = { tag = NAP level = 1 location = salerno }
-	ov_cathedral = { tag = NAP level = 1 location = reggiocal }
-	ov_cathedral = { tag = SIC level = 1 location = palermo }
+	cathedral = { tag = KOL level = 1 location = cologne }
+	cathedral = { tag = MAI level = 1 location = mainz }
+	cathedral = { tag = TRI level = 1 location = trier }
+	cathedral = { tag = SLZ level = 1 location = salzburg }
+	cathedral = { tag = BOH level = 1 location = prague }
+	cathedral = { tag = MAG level = 1 location = magdeburg }
+	cathedral = { tag = BRE level = 1 location = bremervorde } #Diocese of Bremen
+	cathedral = { tag = BSC level = 1 location = besancon }
+	cathedral = { tag = POL level = 1 location = gniezno }
+	cathedral = { tag = HUN level = 1 location = esztergom }
+	cathedral = { tag = HUN level = 1 location = kalocsa }
+	cathedral = { tag = SKE level = 1 location = lund }
+	cathedral = { tag = SWE level = 1 location = uppsala }
+	cathedral = { tag = NOR level = 1 location = nidaros }
+	cathedral = { tag = RIG level = 1 location = riga }
+	cathedral = { tag = HAL level = 1 location = halych }
+	cathedral = { tag = RAG level = 1 location = dubrovnik }
+	cathedral = { tag = VEN level = 1 location = split }
+	cathedral = { tag = AQU level = 1 location = aquileia }
+	cathedral = { tag = MLO level = 1 location = milano }
+	cathedral = { tag = RAV level = 1 location = ravenna }
+	cathedral = { tag = GEN level = 1 location = genoa }
+	cathedral = { tag = SAV level = 1 location = vienne }
+	cathedral = { tag = CYP level = 1 location = nicosia_cyp }
+	cathedral = { tag = CRT level = 1 location = candia }
+	cathedral = { tag = FRA level = 1 location = reims }
+	cathedral = { tag = NRM level = 1 location = rouen }
+	cathedral = { tag = FRA level = 1 location = tours }
+	cathedral = { tag = AQN level = 1 location = bordeaux }
+	cathedral = { tag = PIS level = 1 location = pisa }
+	cathedral = { tag = PAP level = 1 location = benevento }
+	cathedral = { tag = NAP level = 1 location = salerno }
+	cathedral = { tag = NAP level = 1 location = reggiocal }
+	cathedral = { tag = SIC level = 1 location = palermo }
 
 	#Stockades on Tribal and bordering Tribal/Hordes
 	stockade = { tag = GLM level = 1 location = kologriv }
