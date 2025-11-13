@@ -1239,7 +1239,7 @@ building_manager = {
 	order_headquarters = { tag = PMS level = 1 location = kwidzyn }
 	order_headquarters = { tag = SMD level = 1 location = fischhausen }
 	
-	cathedral = { tag = TEU level = 1 location = konigsberg }
+	cathedral = { tag = SMN level = 1 location = konigsberg }
 	
 	tar_kiln = { tag = BIO level = 1 location = lihula } 
 	tar_kiln = { tag = LIV level = 1 location = kandava } 

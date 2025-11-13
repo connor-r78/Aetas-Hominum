@@ -1,0 +1,4 @@
+﻿SMN = {
+	color = rgb { 219 32 23 }
+	color2 = rgb { 219 32 23 }
+}
